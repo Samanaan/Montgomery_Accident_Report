@@ -31,17 +31,15 @@ Our report file can also be accessed [here](https://docs.google.com/presentation
  
 
 ### What is the change of injury dependent on impact location at time of collision?
-Hypothesis: The probability of head-on collision is more common than being hit on the right-side of a vehicle  
-![image](https://raw.githubusercontent.com/mattf4171/Montgomery-County-Collision-Analysis/main/images/CountyDistOfImpactProb.png)
-![image](https://raw.githubusercontent.com/mattf4171/Montgomery-County-Collision-Analysis/main/images/StateDistOfImpactProb.png)
-The Montgomery County Data...  
-* shows that no fatal injuries occur from a rear-end collision but instead were predominantly from head-on collisions   
-* The category Possible injuries had the highest probability of being caused from rear-ended accidents  
+Hypothesis: The probability of head-on collision is more common than being hit on the right-side of a vehicle. 
+The Montgomery County Data:
+* Shows that no fatal injuries occur from a rear-end collision but instead were predominantly from head-on collisions.   
+* The category Possible injuries had the highest probability of being caused from rear-ended accidents.
 
-The Maryland State Data...
-* We see that an impact from the right side of the vehicle is very minimal in terms of probability if ever in a collision. collisions that occur from the left of the vehicle are most apparent in Dark settings
-* A head on collision has the highest probabilities throughout the categories of lighting descriptions for all state accidents. It is interesting to see that being hit from the back of the vehicle is most common in daylight settings, possibly because drivers have more distractions and if in traffic bumper to bumper lead to more cases of rear-ended accidents
-* It is also interesting to see that the probability of being hit head-on is more apparent than rear-end when there is no lights on a dark night
+The Maryland State Data:
+* We see that an impact from the right side of the vehicle is very minimal in terms of probability if ever in a collision. Collisions that occur from the left of the vehicle are most apparent in Dark settings.
+* A head on collision has the highest probabilities throughout the categories of lighting descriptions for all state accidents. It is interesting to see that being hit from the back of the vehicle is most common in daylight settings, possibly because drivers have more distractions and if in traffic bumper to bumper lead to more cases of rear-ended accidents.
+* It is also interesting to see that the probability of being hit head-on is more apparent than rear-end when there is no lights on a dark night.
 
 ### What is the chance of injury given vehicle body type?
 Hypothesis: Motorcycles, and smaller vehicles, will yield more injuries in an accident.  
@@ -72,9 +70,9 @@ Hypothesis: Motorcycles, and smaller vehicles, will yield more injuries in an ac
   * chi2 statistic: 129.35
   * p-value: 1.1705e-13
   * degrees of freedom: 32
-* Conclusion
+* Conclusion:
   * It is clear that certain weather types have more accidents than others.
-  * We can also conclude that weather type does have a significant correlation with injury severity
+  * We can also conclude that weather type does have a significant correlation with injury severity.
 
 ### Relationship between driver distractions and ACRS Report Type
 ![image](https://raw.githubusercontent.com/mattf4171/Montgomery-County-Collision-Analysis/main/images/Driver_Distractions.png)
@@ -90,7 +88,7 @@ Hypothesis: Motorcycles, and smaller vehicles, will yield more injuries in an ac
   * Unknown if distracted (69.97%)
   * Not due to driver distraction (26.97%)
   * Looked but did not see (1.78%)
-* Conclusion?
+* Conclusion:
   * Majority of property damage and injury crashes were not due to driver distraction. More investigation into "unknown" category. Look into the driver's point of view during the accident.
 
 ### Relationship between driver substance abuse and ARCS Report Type
@@ -108,7 +106,7 @@ Hypothesis: Motorcycles, and smaller vehicles, will yield more injuries in an ac
   * Most drivers did not have drugs/alcohol detected (59.83%)
   * Unknown if drugs/alcohol were detected (25.48%)
   * Alcohol was present (7.48%)
-* Conclusion?
+* Conclusion:
   * Majority of those tested for drugs/alcohol did not have any in their system. More investigation in the "unknown" category.
 
 ### Which areas of Maryland and Montgomery see the largest number of incidents?  
@@ -130,11 +128,11 @@ Hypothesis: A larger number of accidents occur around cities due to poor driving
   * It is clear that crashes occur more frequently in areas that are closer to a large city. However, more data from outside data sources would have to be used to understand why exactly these areas see more accidents.
 
 ### Data Challenges
-* Overlapping Data - repeated data that wasn't able to be separated during our data merge
+* Overlapping Data - repeated data that wasn't able to be separated during our data merge.
 
-* Null Values - many of our original questions were void of supporting data, this made us change our questions to better fit things that we could analyze more accurately, if at all
+* Null Values - many of our original questions were void of supporting data, this made us change our questions to better fit things that we could analyze more accurately, if at all.
 
-* Data Ranges - some data was non-overlapping in terms of timeline, therefore we only had one data source for some statistics and multiple for others
+* Data Ranges - some data was non-overlapping in terms of timeline, therefore we only had one data source for some statistics and multiple for others.
 
 ### Future Plans
 * Filter Data More Thoroughly - This would involve a more rigorous screening process to have a more reusable data set.
