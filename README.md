@@ -114,8 +114,8 @@ Hypothesis: Motorcycles, and smaller vehicles, will yield more injuries in an ac
 ### Which areas of Maryland and Montgomery see the largest number of incidents?  
 
 Hypothesis: A larger number of accidents occur around cities due to poor driving conditions and an
-![image](https://raw.githubusercontent.com/mattf4171/Montgomery-County-Collision-Analysis/main/images/Accidents_per_county.png)
-![image](https://raw.githubusercontent.com/mattf4171/Montgomery-County-Collision-Analysis/main/images/Accidents_per_zip.png)  
+![image](https://raw.githubusercontent.com/mattf4171/Montgomery-County-Collision-Analysis/main/Accidents_per_county.png)
+![image](https://raw.githubusercontent.com/mattf4171/Montgomery-County-Collision-Analysis/main/Accidents_per_zip.png)  
 * Montgomery County is on the upper end of auto accidents in Maryland
   * 102,078 accidents in the last 8 years
   * The max number of accidents in the state was Baltimore County with 162,216 accidents
